@@ -4,13 +4,13 @@ My name is Jarrod Mishima and I am a fullstack software engineer!
 
 ### A little about me:
 
-*Coming Soon*
+From a young age, I knew that I wanted to do something involved with computers and technology. Evidently, I became entranced by the prospect of coding as a career where I get to work on creating code on my daily life.  I am a hard worker who loves problem solving and working with others to make an impact on the lives of others. 
 
 Checkout my LinkedIn and connect with me if you are interested making cool stuff!!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jarrod-mishima-50abb0172/)
 
-### Technologies Used:
+### Technologies I Use:
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
