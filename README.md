@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-My name is Jarrod Mishima and I am a fullstack software engineer!
+My name is Jarrod Mishima and I am a Fullstack Software Engineer!
 
 ### A little about me:
 
